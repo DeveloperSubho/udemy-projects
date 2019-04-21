@@ -1,0 +1,5 @@
+package com.devsubho.sppringboot.cruddemo.entity;
+
+public class Employee {
+
+}

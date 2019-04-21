@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+G:\PROJECTS LOCAL\SPRING AND HIBERNATE (UDEMY)\SPRING REST\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1600700352.index
+\spring-rest-demo\src\main\java
+G:\PROJECTS LOCAL\SPRING AND HIBERNATE (UDEMY)\SPRING REST\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4098858325.index
+\spring-crm-rest\src\main\java

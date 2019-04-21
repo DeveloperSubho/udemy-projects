@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="22-jpa-with-crud-demo"/>
+<aop-project name="05-properties-demo"/>
+<aop-project name="23-spring-data-jpa-crud-demo"/>
+<aop-project name="24-spring-data-rest-crud-demo"/>
+<aop-project name="21-hibernate-with-service-demo"/>
+<aop-project name="30-thymeleafdemo"/>
+</aop-reference-model>

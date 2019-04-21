@@ -1,0 +1,30 @@
+package com.devsubho.sppringboot.cruddemo.dao;
+
+import java.util.List;
+
+import javax.persistence.EntityManager;
+
+import org.springframework.stereotype.Repository;
+
+import com.devsubho.sppringboot.cruddemo.entity.Employee;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+@Repository
+public class EmployeeDAOImpl implements EmployeeDAO {
+
+	
+	// Define field for entitymanager
+	private EntityManager entityManager;
+	
+	// Set up constructor injection
+	@Autowired
+	
+	
+	@Override
+	public List<Employee> findAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

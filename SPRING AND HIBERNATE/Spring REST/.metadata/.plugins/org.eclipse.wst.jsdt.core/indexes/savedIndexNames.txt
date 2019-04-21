@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+G:\PROJECTS LOCAL\SPRING AND HIBERNATE (UDEMY)\SPRING REST\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3224454368.index
+1590429837.index
+869844036.index
+654468187.index
+2388625832.index
+2741010517.index
+2143401527.index
+4098858325.index

@@ -1,0 +1,5 @@
+package com.devsubho.sppringboot.cruddemo.dao;
+
+public interface EmployeeDAO {
+
+}

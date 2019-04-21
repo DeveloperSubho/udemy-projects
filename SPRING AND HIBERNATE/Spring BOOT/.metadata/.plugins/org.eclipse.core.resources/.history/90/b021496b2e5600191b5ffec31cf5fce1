@@ -1,0 +1,21 @@
+package com.devsubho.sppringboot.cruddemo.rest;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.devsubho.sppringboot.cruddemo.dao.EmployeeDAO;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+@RestController
+@RequestMapping("/api")
+public class EmployeeRestController {
+
+	private EmployeeDAO employeeDAO;
+	
+	// Inject EmployeeDAO (Use Constructor injection)
+	@Autowired
+	public EmployeeRestController(EmployeeDAO theEmployeeDAO) {
+		employeeDAO = theEmployeeDAO;
+	}
+}
