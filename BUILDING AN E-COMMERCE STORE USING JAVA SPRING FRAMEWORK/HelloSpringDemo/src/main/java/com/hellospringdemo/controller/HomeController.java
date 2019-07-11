@@ -1,16 +1,16 @@
-package com.devsubho.springdemo.controller;
+package com.hellospringdemo.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
- * Created by SUBHAJIT on 09-07-2019.
+ * Created by Le on 1/1/2016.
  */
 
 @Controller
 public class HomeController {
 
-    @RequestMapping
+    @RequestMapping("/")
     public String home() {
         return "home";
     }
