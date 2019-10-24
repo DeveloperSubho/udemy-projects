@@ -2,13 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bacc40b-b057-4aaa-a8a4-e4bcafc5ced5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-config-server/src/main/java/com/devsubho/microservices/springcloudconfigserver/SpringCloudConfigServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-config-server/src/main/java/com/devsubho/microservices/springcloudconfigserver/SpringCloudConfigServerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-config-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-config-server/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/limits-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/limits-service/src/main/resources/bootstrap.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/limits-service/target/" />
     <ignored path="$PROJECT_DIR$/spring-cloud-config-server/target/" />
+    <ignored path="$PROJECT_DIR$/currency-exchange-service/currency-exchange-service/target/" />
+    <ignored path="$PROJECT_DIR$/currency-exchange-service/target/" />
+    <ignored path="$PROJECT_DIR$/currency-conversion-service/target/" />
+    <ignored path="$PROJECT_DIR$/netflix-eureka-naming-server/target/" />
+    <ignored path="$PROJECT_DIR$/netflix-zuul-api-gateway-server/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,10 +37,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring-cloud-config-server/src/main/resources/application.properties">
+        <entry file="file://$PROJECT_DIR$/netflix-zuul-api-gateway-server/src/main/java/com/devsubho/microservices/netflixzuulapigatewayserver/filter/ZuulLoggingFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="290">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -37,6 +53,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -67,7 +84,39 @@
         <option value="$PROJECT_DIR$/spring-cloud-config-server/src/main/java/com/devsubho/microservices/springcloudconfigserver/SpringCloudConfigServerApplication.java" />
         <option value="$PROJECT_DIR$/spring-cloud-config-server/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/git-local-config-repo/limits-service.properties" />
+        <option value="$PROJECT_DIR$/git-local-config-repo/limits-service-dev.properties" />
+        <option value="$PROJECT_DIR$/limits-service/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/currency-exchange-service/currency-exchange-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/currency-exchange-service/currency-exchange-service/src/main/java/com/devsubho/microservices/currencyexchangeservice/controller/CurrencyExchangeController.java" />
+        <option value="$PROJECT_DIR$/currency-exchange-service/currency-exchange-service/src/main/java/com/devsubho/microservices/currencyexchangeservice/model/ExchangeValue.java" />
+        <option value="$PROJECT_DIR$/currency-exchange-service/currency-exchange-service/pom.xml" />
+        <option value="$PROJECT_DIR$/currency-exchange-service/src/main/java/com/devsubho/microservices/currencyexchangeservice/model/ExchangeValue.java" />
+        <option value="$PROJECT_DIR$/currency-exchange-service/src/main/resources/data.sql" />
+        <option value="$PROJECT_DIR$/currency-exchange-service/src/main/java/com/devsubho/microservices/currencyexchangeservice/repository/ExchangeValueRepository.java" />
+        <option value="$PROJECT_DIR$/currency-exchange-service/src/main/java/com/devsubho/microservices/currencyexchangeservice/controller/CurrencyExchangeController.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/devsubho/microservices/currencyconversionservice/model/CurrencyConversionBean.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/devsubho/microservices/currencyconversionservice/controller/CurrencyConversionController.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/devsubho/microservices/currencyconversionservice/proxy/CurrencyExchangeServiceProxy.java" />
+        <option value="$PROJECT_DIR$/netflix-eureka-naming-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/netflix-eureka-naming-server/src/main/java/com/devsubho/microservices/netflixeurekanamingserver/NetflixEurekaNamingServerApplication.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/devsubho/microservices/currencyconversionservice/CurrencyConversionServiceApplication.java" />
+        <option value="$PROJECT_DIR$/netflix-eureka-naming-server/pom.xml" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/pom.xml" />
+        <option value="$PROJECT_DIR$/currency-exchange-service/pom.xml" />
+        <option value="$PROJECT_DIR$/currency-exchange-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/currency-exchange-service/src/main/java/com/devsubho/microservices/currencyexchangeservice/CurrencyExchangeServiceApplication.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/netflix-zuul-api-gateway-server/src/main/java/com/devsubho/microservices/netflixzuulapigatewayserver/NetflixZuulApiGatewayServerApplication.java" />
+        <option value="$PROJECT_DIR$/netflix-zuul-api-gateway-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/netflix-zuul-api-gateway-server/src/main/java/com/devsubho/microservices/netflixzuulapigatewayserver/filter/ZuulLoggingFilter.java" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -170,7 +219,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -182,56 +230,25 @@
             <path>
               <item name="Spring MICROSERVICES" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring MICROSERVICES" type="462c0819:PsiDirectoryNode" />
-              <item name="git-local-config-repo" type="462c0819:PsiDirectoryNode" />
+              <item name="netflix-zuul-api-gateway-server" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring MICROSERVICES" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring MICROSERVICES" type="462c0819:PsiDirectoryNode" />
-              <item name="limits-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring MICROSERVICES" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring MICROSERVICES" type="462c0819:PsiDirectoryNode" />
-              <item name="limits-service" type="462c0819:PsiDirectoryNode" />
+              <item name="netflix-zuul-api-gateway-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring MICROSERVICES" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring MICROSERVICES" type="462c0819:PsiDirectoryNode" />
-              <item name="limits-service" type="462c0819:PsiDirectoryNode" />
+              <item name="netflix-zuul-api-gateway-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring MICROSERVICES" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring MICROSERVICES" type="462c0819:PsiDirectoryNode" />
-              <item name="limits-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring MICROSERVICES" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring MICROSERVICES" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-config-server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring MICROSERVICES" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring MICROSERVICES" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-config-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring MICROSERVICES" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring MICROSERVICES" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-config-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring MICROSERVICES" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring MICROSERVICES" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="netflix-zuul-api-gateway-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -239,16 +256,26 @@
             <path>
               <item name="Spring MICROSERVICES" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring MICROSERVICES" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="netflix-zuul-api-gateway-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloudconfigserver" type="462c0819:PsiDirectoryNode" />
+              <item name="netflixzuulapigatewayserver" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring MICROSERVICES" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring MICROSERVICES" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="netflix-zuul-api-gateway-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="netflixzuulapigatewayserver" type="462c0819:PsiDirectoryNode" />
+              <item name="filter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring MICROSERVICES" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring MICROSERVICES" type="462c0819:PsiDirectoryNode" />
+              <item name="netflix-zuul-api-gateway-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -257,9 +284,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -267,11 +296,17 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/git-local-config-repo" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="G:/PROJECTS LOCAL/KAFKA" />
+    <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.devsubho.microservices.currencyconversionservice.model" />
+      <recent name="com.devsubho.microservices.currencyexchangeservice.model" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
@@ -289,12 +324,53 @@
         </RuleState>
       </list>
     </option>
-    <option name="contentProportion" value="0.28593507" />
+    <option name="contentProportion" value="0.21483772" />
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringCloudConfigServerApplication">
+  <component name="RunManager" selected="Spring Boot.NetflixZuulApiGatewayServerApplication">
+    <configuration name="CurrencyConversionServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="currency-conversion-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.devsubho.microservices.currencyconversionservice.CurrencyConversionServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurrencyExchangeServiceApplication8000" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="currency-exchange-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.devsubho.microservices.currencyexchangeservice.CurrencyExchangeServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurrencyExchangeServiceApplication8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="currency-exchange-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.devsubho.microservices.currencyexchangeservice.CurrencyExchangeServiceApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8001" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LimitsServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="limits-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.devsubho.microservices.limitsservice.LimitsServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NetflixEurekaNamingServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="netflix-eureka-naming-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.devsubho.microservices.netflixeurekanamingserver.NetflixEurekaNamingServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NetflixZuulApiGatewayServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="netflix-zuul-api-gateway-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.devsubho.microservices.netflixzuulapigatewayserver.NetflixZuulApiGatewayServerApplication" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -319,6 +395,11 @@
     <list>
       <item itemvalue="Spring Boot.LimitsServiceApplication" />
       <item itemvalue="Spring Boot.SpringCloudConfigServerApplication" />
+      <item itemvalue="Spring Boot.CurrencyExchangeServiceApplication8000" />
+      <item itemvalue="Spring Boot.CurrencyExchangeServiceApplication8001" />
+      <item itemvalue="Spring Boot.CurrencyConversionServiceApplication" />
+      <item itemvalue="Spring Boot.NetflixEurekaNamingServerApplication" />
+      <item itemvalue="Spring Boot.NetflixZuulApiGatewayServerApplication" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -333,17 +414,26 @@
       <updated>1570372951829</updated>
       <workItem from="1570372960106" duration="3573000" />
       <workItem from="1570377149237" duration="4220000" />
-      <workItem from="1570382312148" duration="1197000" />
+      <workItem from="1570382312148" duration="1775000" />
+      <workItem from="1570509562499" duration="12311000" />
+      <workItem from="1570551701749" duration="160000" />
+      <workItem from="1570633243196" duration="3321000" />
+      <workItem from="1570638061514" duration="3093000" />
+      <workItem from="1570642539931" duration="2542000" />
+      <workItem from="1570874086625" duration="576000" />
+      <workItem from="1571486566313" duration="1251000" />
+      <workItem from="1571501437314" duration="1189000" />
+      <workItem from="1571563316762" duration="126000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8990000" />
+    <option name="totallyTimeSpent" value="34137000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25945538" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -367,11 +457,11 @@
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info anchor="bottom" id="Problems" order="15" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" order="16" visible="true" weight="0.33947772" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="16" visible="true" weight="0.37480798" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.13993949" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" />
@@ -383,17 +473,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/limits-service/src/main/java/com/devsubho/microservices/limitsservice/LimitsServiceApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/limits-service/src/main/java/com/devsubho/microservices/limitsservice/model/LimitConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -404,27 +488,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/limits-service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="54" column="21" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.1.3.RELEASE/spring-cloud-commons-2.1.3.RELEASE.jar!/org/springframework/cloud/client/serviceregistry/AutoServiceRegistrationAutoConfiguration.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/limits-service/src/main/java/com/devsubho/microservices/limitsservice/controller/LimitsConfigurationController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -452,10 +519,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/limits-service/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/git-local-config-repo/limits-service-dev.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="26" />
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/limits-service/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/limits-service/src/main/java/com/devsubho/microservices/limitsservice/LimitsServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/limits-service/src/main/java/com/devsubho/microservices/limitsservice/controller/LimitsConfigurationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -470,6 +564,182 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-exchange-service/currency-exchange-service/src/main/java/com/devsubho/microservices/currencyexchangeservice/controller/CurrencyExchangeController.java" />
+    <entry file="file://$PROJECT_DIR$/limits-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="54" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-exchange-service/currency-exchange-service/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/currency-exchange-service/currency-exchange-service/src/main/java/com/devsubho/microservices/currencyexchangeservice/model/ExchangeValue.java" />
+    <entry file="file://$PROJECT_DIR$/currency-exchange-service/currency-exchange-service/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/currency-exchange-service/src/main/java/com/devsubho/microservices/currencyexchangeservice/model/ExchangeValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-exchange-service/src/main/resources/data.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-exchange-service/src/main/java/com/devsubho/microservices/currencyexchangeservice/repository/ExchangeValueRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/java/com/devsubho/microservices/currencyconversionservice/model/CurrencyConversionBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netflix-eureka-naming-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netflix-eureka-naming-server/src/main/java/com/devsubho/microservices/netflixeurekanamingserver/NetflixEurekaNamingServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="46" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-exchange-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-exchange-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="60" selection-start-line="2" selection-start-column="60" selection-end-line="2" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-exchange-service/src/main/java/com/devsubho/microservices/currencyexchangeservice/controller/CurrencyExchangeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-exchange-service/src/main/java/com/devsubho/microservices/currencyexchangeservice/CurrencyExchangeServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/java/com/devsubho/microservices/currencyconversionservice/CurrencyConversionServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/java/com/devsubho/microservices/currencyconversionservice/controller/CurrencyConversionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="30" column="57" selection-start-line="30" selection-start-column="57" selection-end-line="30" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/java/com/devsubho/microservices/currencyconversionservice/proxy/CurrencyExchangeServiceProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netflix-eureka-naming-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netflix-zuul-api-gateway-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netflix-zuul-api-gateway-server/src/main/java/com/devsubho/microservices/netflixzuulapigatewayserver/NetflixZuulApiGatewayServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netflix-zuul-api-gateway-server/src/main/java/com/devsubho/microservices/netflixzuulapigatewayserver/filter/ZuulLoggingFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -525,7 +795,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>spring-cloud-config-server</last-edited>
+          <last-edited>limits-service</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
