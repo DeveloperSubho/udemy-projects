@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50853e67-112f-47df-896a-39587d257986" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../DATA STRUCTURES AND ALGORITHMS/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DATA STRUCTURES AND ALGORITHMS/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DATA STRUCTURES AND ALGORITHMS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DATA STRUCTURES AND ALGORITHMS/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring MICROSERVICES/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring MICROSERVICES/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring MICROSERVICES/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring MICROSERVICES/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="50853e67-112f-47df-896a-39587d257986" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,15 +24,16 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DATA STRUCTURES AND ALGORITHMS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -64,22 +60,26 @@
       <workItem from="1572347999601" duration="65000" />
       <workItem from="1572360189056" duration="28000" />
       <workItem from="1572360517545" duration="23000" />
+      <workItem from="1602670415913" duration="24000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116000" />
+    <option name="totallyTimeSpent" value="140000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3067114" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Anonymous Apex" />
+      <window_info anchor="bottom" id="Log Analyzer" />
+      <window_info anchor="bottom" id="SOQL Query" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
